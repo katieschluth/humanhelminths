@@ -90,6 +90,7 @@ Trichinella nelsoni,11,Y
 Echinostoma echinatum,10,Y
 Enterobius gregorii,10,Y
 Gnathostoma doloresi,10,Y
+Paragonimus skrjabini,10,Y
 Sparganum mansoni,10,Y
 Stictodora fuscatum,10,Y
 Ancylostoma brasiliense,9,Y
@@ -208,6 +209,7 @@ Dirofilaria conjunctivae,3,Y
 Echinostoma angustitestis,3,Y
 Echinostoma melis,3,Y
 Echinostoma miyagawai,3,Y
+Echinostoma paraulum,3,Y
 Fischoederius elongatus,3,Y
 Gigantobilharzia sturniae,3,Y
 Gnathostoma binucleatum,3,Y
@@ -220,7 +222,6 @@ Microfilaria bolivarensis,3,Y
 Microfilaria rodhaini,3,Y
 Multiceps longihamatus,3,Y
 Nybelinia surmenicola,3,Y
-Oesophagostomum sp.,3,Y
 Opisthorchis sinensis,3,Y
 Opisthorchis tenuicollis,3,Y
 Orientobilharzia turkestanicum,3,Y
@@ -228,6 +229,7 @@ Oxyuris vermicularis,3,Y
 Paragonimus hueitungensis,3,Y
 Paragonimus kellicotti,3,Y
 Parascaris equorum,3,Y
+Pelodera strongyloides,3,Y
 Philophthalmus lacrymosus,3,Y
 Poikilorchis congolensis,3,Y
 Raillietina demerariensis,3,Y
@@ -289,6 +291,7 @@ Multiceps glomeratus,2,N
 Nanophyetus salmincola salmincola,2,N
 Oesophagostomum (Conoweberia) aculeatum,2,N
 Opisthorchis guayaquilensis,2,N
+Ornithobilharzia turkestanica,2,N
 Paragonimus bangkokensis,2,N
 Paragonimus philippinensis,2,N
 Paragonimus pulmonalis,2,N
@@ -326,6 +329,7 @@ Cysticercus racemosus,1,N
 Cysticercus viscerotropica,1,N
 Dicrocoelium lanceolatum,1,N
 Diplogaster coronata,1,N
+Diploscapter coronata,1,N
 Dirofilaria (Nochtiella) sp.,1,N
 Dirofilaria louisianensis,1,N
 Dirofilaria magnilarvatum,1,N
@@ -384,7 +388,6 @@ Schistosoma nanjingi,1,N
 Setaria labiatopapillosa,1,N
 Spelotrema brevicaeca,1,N
 Syngamus laryngeus,1,N
-Syphacia (Syphacia) obvelata,1,N
 Syphacia obvelata,1,N
 Taenia africana,1,N
 Taenia confusa,1,N
