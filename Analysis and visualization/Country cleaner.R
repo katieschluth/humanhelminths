@@ -209,6 +209,7 @@ region.clean %>% as_tibble() %>%
 # ISO, ISO
 # and adheres it to GADM, and then makes a map!
 
+# par(mfrow=c(1,1))
 
 demo <- region.final$ISOall
 
