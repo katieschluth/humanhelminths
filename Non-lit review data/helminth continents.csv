@@ -1,0 +1,255 @@
+ID_0,ISO,NAME_ENGLI,NAME_ISO,NAME_LOCAL,NAME_OBSOL,WASPARTOF,CONTAINS,SOVEREIGN,ISO2,POP2000,SQKM,POPSQKM,UNREGION1,UNREGION2,DEVELOPING,WBREGION,WBINCOME,Islands,LDC,Shape_Area,REGIONMANUAL
+1,AFG,Afghanistan,AFGHANISTAN,Afghanestan,NA,NA,NA,Afghanistan,AF,21764955,641869.188,33.9087082,Southern Asia,Asia,1,South Asia,Low income,0,1,62.74958712,Eurasia
+2,XAD,Akrotiri and Dhekelia,AKROTIRI AND DHEKELIA,Akrotiri and Dhekelia,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,NA,0,0,0.023105986,Eurasia
+3,ALA,Åland,ÅLAND ISLANDS,Åland,NA,NA,NA,Finland,AX,26000,6.784,3832.54717,Northern Europe,Europe,2,NA,NA,1,0,0.243777143,Eurasia
+4,ALB,Albania,ALBANIA,Shqiperia,NA,NA,NA,Albania,AL,3134222,28754.5,108.9993566,Southern Europe,Europe,2,Europe & Central Asia,Lower middle income,0,0,3.082172131,Eurasia
+5,DZA,Algeria,ALGERIA,Al Jaza'ir,NA,NA,NA,Algeria,DZ,30291341,2320972,13.05114452,Northern Africa,Africa,1,Middle East & North Africa,Lower middle income,0,0,212.6342179,Africa
+6,ASM,American Samoa,AMERICAN SAMOA,American Samoa,NA,NA,NA,United States,AS,57000,186.895,304.984082,Polynesia,Oceania,1,East Asia & Pacific,Upper middle income,1,0,0.018708709,Oceania
+7,AND,Andorra,ANDORRA,Andorra,NA,NA,NA,Andorra,AD,67000,452.485,148.0712068,Southern Europe,Europe,2,NA,High income: nonOECD,0,0,0.049530976,Eurasia
+8,AGO,Angola,ANGOLA,Angola,NA,NA,NA,Angola,AO,13134452,1252421,10.48724989,Middle Africa,Africa,1,Sub-Saharan Africa,Lower middle income,0,1,103.8399743,Africa
+9,AIA,Anguilla,ANGUILLA,Anguilla,NA,NA,NA,United Kingdom,AI,11000,86.296,127.4682488,Caribbean,Americas,1,NA,NA,1,0,0.007115669,North America
+11,ATG,Antigua and Barbuda,ANTIGUA AND BARBUDA,Antigua and Barbuda,Leeward Islands,West Indies Federation,NA,Antigua and Barbuda,AG,76000,462.378,164.3676819,Caribbean,Americas,1,Latin America & Caribbean,Upper middle income,1,0,0.037034011,North America
+12,ARG,Argentina,ARGENTINA,Argentina,NA,NA,NA,Argentina,AR,37031814,2781013,13.31594423,South America,Americas,1,Latin America & Caribbean,Upper middle income,0,0,278.2673054,South America
+13,ARM,Armenia,ARMENIA,Hayastan,NA,Soviet Union|Union of Soviet Socialist Republics|U.S.S.R.|USSR|CCCP|C.C.C.P.,NA,Armenia,AM,3786997,29872.461,126.7721799,Western Asia,Asia,1,Europe & Central Asia,Lower middle income,0,0,3.144859089,Eurasia
+14,ABW,Aruba,ARUBA,Aruba,NA,Netherlands Antilles,NA,Nederland,AW,92000,182.926,502.9356133,Caribbean,Americas,1,NA,High income: nonOECD,1,0,0.015130752,North America
+15,AUS,Australia,AUSTRALIA,Australia,NA,NA,NA,Australia,AU,19137645,7706142,2.483427505,Australia and New Zealand,Oceania,2,NA,High income: OECD,1,0,695.3355431,Oceania
+16,AUT,Austria,AUSTRIA,Österreich,NA,Austria-Hungary,NA,Austria,AT,8079902,83738.852,96.48928552,Western Europe,Europe,2,NA,High income: OECD,0,0,10.02803613,Eurasia
+17,AZE,Azerbaijan,AZERBAIJAN,Azarbaycan,Transcaucasian Federated Republics|Azerbaijan SSR|Azerbaijan S.S.R.,Soviet Union|Union of Soviet Socialist Republics|U.S.S.R.|USSR|CCCP|C.C.C.P.,NA,Azerbaijan,AZ,8041278,85808.203,93.71222935,Western Asia,Asia,1,Europe & Central Asia,Lower middle income,0,0,9.133712183,Eurasia
+18,BHS,Bahamas,BAHAMAS,Bahamas,Lucayas,NA,NA,Bahamas,BS,304233,12867.78,23.64300602,Caribbean,Americas,1,NA,High income: nonOECD,1,0,1.190794552,North America
+19,BHR,Bahrain,BAHRAIN,Al Bahrayn,NA,NA,NA,Bahrain,BH,639753,657.268,973.3518139,Western Asia,Asia,1,NA,High income: nonOECD,1,0,0.064494216,Eurasia
+20,BGD,Bangladesh,BANGLADESH,Bangladesh,East Pakistan,NA,NA,Bangladesh,BD,137439261,138507.203,992.2896284,Southern Asia,Asia,1,South Asia,Low income,0,1,12.37901789,Eurasia
+21,BRB,Barbados,BARBADOS,Barbados,NA,West Indies Federation,NA,Barbados,BB,267498,439.942,608.0301494,Caribbean,Americas,1,Latin America & Caribbean,Upper middle income,1,0,0.036239475,North America
+22,BLR,Belarus,BELARUS,Byelarus|Byelorussia,White Russian S.S.R.|White Russian SSR,U.S.S.R.|USSR|CCCP|C.C.C.P.|Soviet Union|Union of Soviet Socialist Republics,NA,Belarus,BY,10186996,206680.703,49.28856856,Eastern Europe,Europe,2,Europe & Central Asia,Lower middle income,0,0,28.04428443,Eurasia
+23,BEL,Belgium,BELGIUM,Belgique|Belgie|Belgien,NA,NA,NA,Belgie,BE,10249370,30479.609,336.2697336,Western Europe,Europe,2,..,High income: OECD,0,0,3.902451371,Eurasia
+24,BLZ,Belize,BELIZE,Belize,British Honduras,NA,NA,Belize,BZ,226325,22174.82,10.20639626,Central America,Americas,1,Latin America & Caribbean,Upper middle income,0,0,1.868078916,North America
+25,BEN,Benin,BENIN,Benin,NA,NA,NA,Benin,BJ,6271732,116514.797,53.82777262,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,9.511564886,Africa
+26,BMU,Bermuda,BERMUDA,Bermuda,NA,NA,NA,United Kingdom,BM,63000,39.412,1598.497919,Northern America,Americas,2,NA,High income: nonOECD,1,0,0.006517414,North America
+27,BTN,Bhutan,BHUTAN,Bhutan,NA,NA,NA,Bhutan,BT,2085136,39927.012,52.22369257,Southern Asia,Asia,1,South Asia,Low income,0,1,3.53695426,Eurasia
+28,BOL,Bolivia,BOLIVIA,Bolivia,NA,NA,NA,Bolivia,BO,8328685,1090353,7.638521653,South America,Americas,1,Latin America & Caribbean,Lower middle income,0,0,91.91660004,South America
+29,BES,"Bonaire, Saint Eustatius and Saba","BONAIRE, SAINT EUSTATIUS AND SABA","Bonaire, Saint Eustatius and Saba",NA,NA,NA,Nederland,AN,0,0,0,Caribbean,Americas,1,NA,High income: nonOECD,0,0,0.02696415,North America
+30,BIH,Bosnia and Herzegovina,BOSNIA AND HERZEGOVINA,Bosna i Hercegovina,NA,Jugoslavia|Yugoslavia,NA,Bosnia and Herzegovina,BA,3977106,51403.379,77.37051683,Southern Europe,Europe,2,Europe & Central Asia,Lower middle income,0,0,5.747560933,Eurasia
+31,BWA,Botswana,BOTSWANA,Botswana,NA,NA,NA,Botswana,BW,1541256,580011.188,2.657286673,Southern Africa,Africa,1,Sub-Saharan Africa,Upper middle income,0,0,50.63973465,Africa
+32,BVT,Bouvet Island,BOUVET ISLAND,Bouvet Island,NA,NA,NA,Norway,BV,0,57.651,0,NA,NA,0,NA,NA,0,0,0.01073779,Africa
+33,BRA,Brazil,BRAZIL,Brasil,NA,NA,NA,Brazil,BR,170406280,8507128,20.03099989,South America,Americas,1,Latin America & Caribbean,Lower middle income,0,0,709.3410367,South America
+34,IOT,British Indian Ocean Territory,BRITISH INDIAN OCEAN TERRITORY,British Indian Ocean Territory,NA,NA,NA,United Kingdom,IO,0,73.977,0,NA,NA,0,NA,NA,0,0,0.005271221,Eurasia
+35,VGB,British Virgin Islands,"VIRGIN ISLANDS, BRITISH",British Virgin Islands,NA,NA,NA,United Kingdom,VG,21000,162.548,129.1926077,Caribbean,Americas,1,NA,NA,1,0,0.014489154,North America
+36,BRN,Brunei,BRUNEI DARUSSALAM,Negara Brunei Darussalam,NA,NA,NA,Brunei Darussalam,BN,328305,5769.535,56.9031993,South-Eastern Asia,Asia,1,NA,High income: nonOECD,1,0,0.470827454,Eurasia
+37,BGR,Bulgaria,BULGARIA,Bulgaria,NA,NA,NA,Bulgaria,BG,7949331,110801.5,71.74389336,Eastern Europe,Europe,2,Europe & Central Asia,Lower middle income,0,0,12.27143439,Eurasia
+38,BFA,Burkina Faso,BURKINA FASO,Burkina Faso,Upper Volta|Voltaic Republic,NA,NA,Burkina Faso,BF,11535072,273719.188,42.14199262,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,22.72334007,Africa
+39,BDI,Burundi,BURUNDI,Burundi,Belgian East Africa,NA,NA,Burundi,BI,6356252,27253.869,233.2238406,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,2.19222314,Africa
+40,KHM,Cambodia,CAMBODIA,Kampuchea,NA,NA,NA,Cambodia,KH,13104030,182612.297,71.75874908,South-Eastern Asia,Asia,1,East Asia & Pacific,Low income,0,1,15.09582452,Eurasia
+41,CMR,Cameroon,CAMEROON,Cameroon,NA,NA,NA,Cameroun,CM,14875513,466306.688,31.90070694,Middle Africa,Africa,1,Sub-Saharan Africa,Low income,0,0,38.07820737,Africa
+42,CAN,Canada,CANADA,Canada,NA,NA,NA,Canada,CA,30756698,9904700,3.105262956,Northern America,Americas,2,NA,High income: OECD,0,0,1693.012591,North America
+43,CPV,Cape Verde,CAPE VERDE,Cabo Verde,NA,NA,NA,Cabo Verde,CV,426958,3961.998,107.7633053,Western Africa,Africa,1,Sub-Saharan Africa,Lower middle income,1,0,0.345343699,Africa
+45,CYM,Cayman Islands,CAYMAN ISLANDS,Cayman Islands,NA,NA,NA,United Kingdom,KY,40000,277.005,144.4017256,Caribbean,Americas,1,NA,High income: nonOECD,1,0,0.024119972,North America
+46,CAF,Central African Republic,CENTRAL AFRICAN REPUBLIC,Republique Centrafricaine,NA,NA,NA,Central African Republic,CF,3717293,621499.375,5.981169329,Middle Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,50.73410146,Africa
+47,TCD,Chad,CHAD,Tchad,NA,NA,NA,Chad,TD,7885299,1168002,6.751100597,Middle Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,107.1346917,Africa
+48,CHL,Chile,CHILE,Chile,NA,NA,NA,Chile,CL,15211308,742298.188,20.49217989,South America,Americas,1,Latin America & Caribbean,Upper middle income,0,0,79.27043259,South America
+49,CHN,China,CHINA,Zhong Guo,NA,NA,Tibet,China,CN,1275132866,9338902,136.5399129,Eastern Asia,Asia,1,East Asia & Pacific,Lower middle income,0,0,951.90364,Eurasia
+50,CXR,Christmas Island,CHRISTMAS ISLAND,Christmas Island,NA,NA,NA,Australia,CX,2564,116.375,22.03222342,NA,NA,0,NA,NA,1,0,0.011529569,Oceania
+51,XCL,Clipperton Island,NA,Clipperton Island,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,NA,0,0,0.0008334,North America
+52,CCK,Cocos Islands,COCOS (KEELING) ISLANDS,Cocos (Keeling) Islands,NA,NA,NA,Australia,CC,628,14,44.85714286,NA,NA,0,NA,NA,1,0,0.001990256,North America
+53,COL,Colombia,COLOMBIA,Colombia,NA,NA,NA,Colombia,CO,42104701,1141962,36.87049219,South America,Americas,1,Latin America & Caribbean,Lower middle income,0,0,92.68860467,South America
+54,COM,Comoros,COMOROS,Comores,NA,NA,NA,Comoros,KM,705929,1659.724,425.3291511,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,1,1,0.138833755,Africa
+55,COK,Cook Islands,COOK ISLANDS,Cook Islands,NA,NA,NA,New Zealand,CK,21388,231.532,92.37599986,Polynesia,Oceania,1,NA,NA,1,0,0.022495268,Oceania
+56,CRI,Costa Rica,COSTA RICA,Costa Rica,NA,NA,NA,Costa Rica,CR,4023502,51608.039,77.9626988,Central America,Americas,1,Latin America & Caribbean,Upper middle income,0,0,4.219988702,North America
+57,CIV,Côte d'Ivoire,COTE D'IVOIRE,Côte d'Ivoire,NA,NA,NA,Côte d'Ivoire,CI,16013139,322215.594,49.6969709,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,0,26.36743031,Africa
+58,HRV,Croatia,CROATIA,Hrvatska,Jugoslavia|Yugoslavia,NA,NA,Croatia,HR,4653749,56287.789,82.67777226,Southern Europe,Europe,2,Europe & Central Asia,Upper middle income,0,0,6.517818266,Eurasia
+59,CUB,Cuba,CUBA,Cuba,NA,NA,NA,Cuba,CU,11199176,110443,101.4023161,Caribbean,Americas,1,Latin America & Caribbean,Lower middle income,1,0,9.660676264,North America
+60,CUW,Curaçao,CURACAO,Curaçao,NA,NA,NA,NA,NA,0,0,0,Caribbean,Americas,1,NA,High income: nonOECD,0,0,0.036359127,North America
+61,CYP,Cyprus,CYPRUS,"Kibris, Kypros",NA,NA,NA,Cyprus,CY,783827,9226.847,84.95068792,Western Asia,Asia,1,NA,High income: nonOECD,1,0,0.564266684,Eurasia
+62,CZE,Czech Republic,CZECH REPUBLIC,Česká republika,Moravia|Bohemia,Czechoslovakia,NA,Czech Republic,CZ,10271830,78495.156,130.8594125,Eastern Europe,Europe,2,Europe & Central Asia,Upper middle income,0,0,9.82603273,Eurasia
+63,COD,Democratic Republic of the Congo,"CONGO, THE DEMOCRATIC REPUBLIC OF THE",République Démocratique du Congo|Zaire,NA,NA,NA,The Democratic Republic of the Congo,CD,50948236,390803.5,130.3679112,Middle Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,189.9197834,Africa
+64,DNK,Denmark,DENMARK,Danmark,NA,NA,NA,Denmark,DK,5320065,42670.711,124.6772054,Northern Europe,Europe,2,NA,High income: OECD,0,0,6.204424021,Eurasia
+65,DJI,Djibouti,DJIBOUTI,Djibouti,NA,NA,NA,Djibouti,DJ,632096,21637.641,29.21279635,Eastern Africa,Africa,1,Middle East & North Africa,Lower middle income,0,1,1.813216824,Africa
+66,DOM,Dominican Republic,DOMINICAN REPUBLIC,República Dominicana,NA,NA,NA,República Dominicana,DO,8372695,48445.039,172.828739,Caribbean,Americas,1,Latin America & Caribbean,Lower middle income,1,0,4.123932471,North America
+67,DMA,Dominica,DOMINICA,Dominica,NA,NA,NA,Dominica,DM,78000,731.997,106.5578138,Caribbean,Americas,1,Latin America & Caribbean,Upper middle income,1,0,0.063505365,North America
+68,ECU,Ecuador,ECUADOR,Ecuador,NA,NA,NA,Ecuador,EC,12645796,256932,49.21845469,South America,Americas,1,Latin America & Caribbean,Lower middle income,0,0,20.85994918,South America
+69,EGY,Egypt,EGYPT,Misr,NA,NA,NA,Egypt,EG,67884476,982910.375,69.06476697,Northern Africa,Africa,1,Middle East & North Africa,Lower middle income,0,0,89.21937041,Africa
+70,SLV,El Salvador,EL SALVADOR,El Salvador,NA,NA,NA,El Salvador,SV,6277897,20696.51,303.3311897,Central America,Americas,1,Latin America & Caribbean,Lower middle income,0,0,1.706700472,North America
+71,GNQ,Equatorial Guinea,EQUATORIAL GUINEA,Guinea Ecuatorial,Fernando Po|Rio Muni|Spanish Guinea,NA,NA,Equatorial Guinea,GQ,456703,27085.301,16.86165496,Middle Africa,Africa,1,Sub-Saharan Africa,Upper middle income,0,1,2.191265763,Africa
+72,ERI,Eritrea,ERITREA,Hagere Ertra,NA,NA,NA,Eritrea,ER,3658777,121940.797,30.00453573,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,10.14218529,Africa
+73,EST,Estonia,ESTONIA,Eesti Vabariik,Estonian SSR|Estonian S.S.R.,Soviet Union|Union of Soviet Socialist Republics|U.S.S.R.|USSR|CCCP|C.C.C.P.,NA,Estonia,EE,1393470,45544.559,30.59575129,Northern Europe,Europe,2,Europe & Central Asia,Upper middle income,0,0,7.038583748,Eurasia
+74,ETH,Ethiopia,ETHIOPIA,Ityop'iya,Abyssinia|Italian East Africa,NA,NA,Ethiopia,ET,62907788,1132328,55.55615334,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,92.88639034,Africa
+75,FLK,Falkland Islands,FALKLAND ISLANDS (MALVINAS),Islas Malvinas,NA,NA,NA,United Kingdom,FK,2136,11514.78,0.185500722,South America,Americas,1,NA,NA,1,0,1.613151814,South America
+76,FRO,Faroe Islands,FAROE ISLANDS,Føroyar,NA,NA,NA,Denmark,FO,45296,1412.086,32.07736639,Northern Europe,Europe,2,NA,High income: nonOECD,1,0,0.247088615,Eurasia
+77,FJI,Fiji,FIJI,Fiji,NA,NA,NA,Fiji,FJ,813607,19363.891,42.01671038,Melanesia,Oceania,1,East Asia & Pacific,Lower middle income,1,0,1.613078826,Oceania
+78,FIN,Finland,FINLAND,Suomi|Suomen Tasavalta,NA,NA,NA,Finland,FI,5171806,333796.906,15.4938704,Northern Europe,Europe,2,NA,High income: OECD,0,0,62.93158539,Eurasia
+79,FRA,France,FRANCE,France,NA,NA,NA,France,FR,59237668,546728.875,108.3492581,Western Europe,Europe,2,NA,High income: OECD,0,0,64.5133205,Eurasia
+80,GUF,French Guiana,FRENCH GUIANA,Guyane,NA,NA,NA,France,GF,164799,83811.133,1.96631395,South America,Americas,1,NA,NA,0,0,6.783771502,South America
+81,PYF,French Polynesia,FRENCH POLYNESIA,Polynésie Française,NA,NA,NA,France,PF,233341,3023.553,77.17443683,Polynesia,Oceania,1,NA,High income: nonOECD,0,0,0.342648259,Oceania
+82,ATF,French Southern Territories,FRENCH SOUTHERN TERRITORIES,Terres Australes et Antarctiques Françaises,NA,NA,NA,France,TF,0,7504.238,0,NA,NA,0,NA,NA,0,0,0.967162266,Africa
+83,GAB,Gabon,GABON,Gabon,NA,NA,NA,Gabon,GA,1230088,261688.703,4.700577388,Middle Africa,Africa,1,Sub-Saharan Africa,Upper middle income,0,0,21.49953304,Africa
+84,GMB,Gambia,GAMBIA,The Gambia,NA,NA,NA,Gambia,GM,1302723,10677.6,122.0052259,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,0.890690312,Africa
+85,GEO,Georgia,GEORGIA,Sak'art'velo,NA,NA,NA,Georgia,GE,5262050,69943.227,75.23316017,Western Asia,Asia,1,Europe & Central Asia,Lower middle income,0,0,7.611030248,Eurasia
+86,DEU,Germany,GERMANY,Deutschland,NA,NA,East Germany|West Germany|DDR,Germany,DE,82016767,356108.812,230.3137812,Western Europe,Europe,2,NA,High income: OECD,0,0,45.91563632,Eurasia
+87,GHA,Ghana,GHANA,Ghana,NA,NA,NA,Ghana,GH,19305633,239980.906,80.44653769,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,0,19.55344373,Africa
+88,GIB,Gibraltar,GIBRALTAR,Gibraltar,NA,NA,NA,United Kingdom,GI,27884,7.266,3837.59978,Southern Europe,Europe,2,NA,NA,0,0,0.000721718,Eurasia
+89,GRC,Greece,GREECE,Ellas or Ellada,NA,NA,NA,Hellas,GR,10609962,131851.906,80.46877987,Southern Europe,Europe,2,NA,High income: OECD,0,0,13.79820221,Eurasia
+90,GRL,Greenland,GREENLAND,Kalaallit Nunaat,NA,NA,NA,Denmark,GL,56309,2142661,0.026279939,Northern America,Americas,2,NA,High income: nonOECD,1,0,656.3966297,Eurasia
+91,GRD,Grenada,GRENADA,Grenada,NA,West Indies Federation,NA,Grenada,GD,89018,366.852,242.6537132,Caribbean,Americas,1,Latin America & Caribbean,Upper middle income,1,0,0.029860603,North America
+92,GLP,Guadeloupe,GUADELOUPE,Guadeloupe,NA,NA,NA,France,GP,427867,1743.315,245.4329826,Caribbean,Americas,1,NA,NA,0,0,0.139463541,North America
+93,GUM,Guam,GUAM,Guam,NA,NA,NA,United States,GU,155175,572.339,271.1242812,Micronesia,Oceania,1,..,High income: nonOECD,1,0,0.045890943,Oceania
+94,GTM,Guatemala,GUATEMALA,Guatemala,NA,NA,NA,Guatemala,GT,11385320,109501.797,103.9738188,Central America,Americas,1,Latin America & Caribbean,Lower middle income,0,0,9.203597206,North America
+95,GGY,Guernsey,GUERNSEY,Guernsey,NA,NA,NA,United Kingdom,GG,65000,78,833.3333333,Western Europe,Europe,2,NA,High income: nonOECD,0,0,0.01097597,Eurasia
+96,GNB,Guinea-Bissau,GUINEA-BISSAU,Guiné-Bissau,Portuguese Guinea,NA,NA,Guinea-Bissau,GW,1199198,33635.391,35.65286338,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,2.812710782,Africa
+97,GIN,Guinea,GUINEA,Guinee,NA,NA,NA,Guinea,GN,8154267,246076.5,33.13712199,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,20.21895488,Africa
+98,GUY,Guyana,GUYANA,Guyana,NA,NA,NA,Guyana,GY,760513,211241.297,3.600209859,South America,Americas,1,Latin America & Caribbean,Lower middle income,0,0,17.10662092,South America
+99,HTI,Haiti,HAITI,Haiti,NA,NA,NA,Haiti,HT,8142471,27156.939,299.8302202,Caribbean,Americas,1,Latin America & Caribbean,Low income,1,1,2.325013846,North America
+100,HMD,Heard Island and McDonald Islands,HEARD ISLAND AND MCDONALD ISLANDS,Heard and Mc Donald,NA,NA,NA,Australia,HM,0,388.109,0,NA,NA,0,NA,NA,0,0,0.048692975,Africa
+101,HND,Honduras,HONDURAS,Honduras,NA,NA,NA,Honduras,HN,6416635,112852,56.85885053,Central America,Americas,1,Latin America & Caribbean,Lower middle income,0,0,9.428666566,North America
+102,HKG,Hong Kong,HONG KONG,Hong Kong,NA,NA,NA,China,HK,6859822,1092,6281.888278,Eastern Asia,Asia,1,NA,High income: nonOECD,0,0,0.099025249,Eurasia
+103,HUN,Hungary,HUNGARY,Magyarorszag,NA,Austria-Hungary,NA,Hungary,HU,9967555,92782.203,107.4296005,Eastern Europe,Europe,2,Europe & Central Asia,Upper middle income,0,0,11.04030632,Eurasia
+104,ISL,Iceland,ICELAND,Lyoveldio Island,NA,NA,NA,Iceland,IS,279291,101805.297,2.743383775,Northern Europe,Europe,2,NA,High income: OECD,1,0,19.42474511,Eurasia
+105,IND,India,INDIA,Bharat,NA,NA,NA,India,IN,1008937356,3089282,326.5928316,Southern Asia,Asia,1,South Asia,Low income,0,0,278.7024271,Eurasia
+106,IDN,Indonesia,INDONESIA,Indonesia,Dutch Borneo|Dutch East Indies|Dutch New Guinea|East Indies|Netherlands Indies|West New Guinea|Nederlands Indië,NA,NA,Indonesia,ID,212092024,1910842,110.9940142,South-Eastern Asia,Asia,1,East Asia & Pacific,Lower middle income,1,0,153.8812468,Eurasia
+107,IRN,Iran,"IRAN, ISLAMIC REPUBLIC OF",Iran,NA,NA,NA,Iran,IR,70330053,1624760,43.28642569,Southern Asia,Asia,1,Middle East & North Africa,Lower middle income,0,0,155.9908967,Eurasia
+108,IRQ,Iraq,IRAQ,Iraq,NA,NA,NA,Iraq,IQ,22946245,436421.906,52.57812379,Western Asia,Asia,1,Middle East & North Africa,Lower middle income,0,0,42.9971227,Eurasia
+109,IRL,Ireland,IRELAND,Éire,NA,NA,NA,Ireland,IE,3803085,69384.156,54.81200924,Northern Europe,Europe,2,NA,High income: OECD,0,0,9.458364663,Eurasia
+110,IMN,Isle of Man,ISLE OF MAN,Isle of Man,NA,NA,NA,United Kingdom,IM,80000,572,139.8601399,Western Europe,Europe,2,NA,High income: nonOECD,0,0,0.079852335,Eurasia
+111,ISR,Israel,ISRAEL,Yisra'el,NA,NA,NA,Israel,IL,6040427,20773.82,290.7711244,Western Asia,Asia,1,NA,High income: nonOECD,0,0,2.10294666,Eurasia
+112,ITA,Italy,ITALY,Italia,NA,NA,Trieste,Italy,IT,57529998,300979.5,191.1425795,Southern Europe,Europe,2,NA,High income: OECD,0,0,33.12663787,Eurasia
+113,JAM,Jamaica,JAMAICA,Jamaica,NA,NA,NA,Jamaica,JM,2576085,11043.86,233.2594763,Caribbean,Americas,1,Latin America & Caribbean,Lower middle income,1,0,0.939264132,North America
+114,JPN,Japan,JAPAN,Nippon,NA,NA,NA,Japan,JP,127096314,373049.406,340.6956611,Eastern Asia,Asia,2,NA,High income: OECD,1,0,38.05556886,Eurasia
+115,JEY,Jersey,JERSEY,Jersey,NA,NA,NA,United Kingdom,JE,87000,116,750,Western Europe,Europe,2,NA,High income: nonOECD,0,0,0.015445995,Eurasia
+116,JOR,Jordan,JORDAN,Al Urdun,NA,NA,NA,Jordan,JO,4913115,89274.594,55.0337423,Western Asia,Asia,1,Middle East & North Africa,Lower middle income,0,0,8.439635268,Eurasia
+117,KAZ,Kazakhstan,KAZAKHSTAN,Qazaqstan,Kazakh SSR|Kazakh S.S.R.,Soviet Union|Union of Soviet Socialist Republics|U.S.S.R.|USSR|CCCP|C.C.C.P.,NA,Kazakhstan,KZ,16172470,2715976,5.954570291,Central Asia,Asia,1,Europe & Central Asia,Lower middle income,0,0,330.5612529,Eurasia
+118,KEN,Kenya,KENYA,Kenya,NA,NA,NA,Kenya,KE,30668697,584428.688,52.47637159,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,0,0,47.6425347,Africa
+119,KIR,Kiribati,KIRIBATI,Kiribati|Kiribas,NA,NA,NA,Kiribati,KI,91985,1049.99,87.60559624,Micronesia,Oceania,1,East Asia & Pacific,Lower middle income,1,1,0.082310528,Oceania
+120,XKO,Kosovo,<Null>,Kosova,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,NA,0,0,1.19717429,Eurasia
+121,KWT,Kuwait,KUWAIT,Al Kuwayt,NA,NA,NA,Kuwait,KW,1914404,16983.971,112.7182801,Western Asia,Asia,1,NA,High income: nonOECD,0,0,1.615613766,Eurasia
+122,KGZ,Kyrgyzstan,KYRGYZSTAN,Kyrgyz Respublikasy,Kyrgyz SSR|Kyrgyz S.S.R.,Soviet Union|Union of Soviet Socialist Republics|U.S.S.R.|USSR|CCCP|C.C.C.P.,NA,Kyrgyzstan,KG,4920847,199340,24.6856978,Central Asia,Asia,1,Europe & Central Asia,Low income,0,0,21.41310999,Eurasia
+123,LAO,Laos,LAO PEOPLE'S DEMOCRATIC REPUBLIC,Lao,NA,NA,NA,Laos,LA,5278563,230566.094,22.89392559,South-Eastern Asia,Asia,1,East Asia & Pacific,Low income,0,1,19.67895611,Eurasia
+124,LVA,Latvia,LATVIA,Latvija,Latvian SSR|Latvian S.S.R.,Soviet Union|Union of Soviet Socialist Republics|U.S.S.R.|USSR|CCCP|C.C.C.P.,NA,Latvia,LV,2420546,64298.891,37.64522159,Northern Europe,Europe,2,Europe & Central Asia,Upper middle income,0,0,9.524928645,Eurasia
+125,LBN,Lebanon,LEBANON,Lubnan,NA,NA,NA,Lebanon,LB,3496489,10239.88,341.4580054,Western Asia,Asia,1,Middle East & North Africa,Upper middle income,0,0,0.998173282,Eurasia
+126,LSO,Lesotho,LESOTHO,Lesotho,NA,NA,NA,Lesotho,LS,2034667,30351.641,67.03647424,Southern Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,2.844290925,Africa
+127,LBR,Liberia,LIBERIA,Liberia,NA,NA,NA,Liberia,LR,2913064,96296.031,30.25113257,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,7.841757023,Africa
+128,LBY,Libya,LIBYAN ARAB JAMAHIRIYA,Libiyah,Cyrenaica|Tripolitania,NA,NA,Libya,LY,5289730,1620515,3.26422773,Northern Africa,Africa,1,Middle East & North Africa,Upper middle income,0,0,147.2045762,Africa
+129,LIE,Liechtenstein,LIECHTENSTEIN,Liechtenstein,NA,NA,NA,Liechtenstein,LI,322207,164.8,1955.139563,Western Europe,Europe,2,NA,High income: nonOECD,0,0,0.019215079,Eurasia
+130,LTU,Lithuania,LITHUANIA,Lietuva,NA,Soviet Union|Union of Soviet Socialist Republics|U.S.S.R.|USSR|CCCP|C.C.C.P.,NA,Lithuania,LT,3696093,64849.199,56.99519897,Northern Europe,Europe,2,Europe & Central Asia,Upper middle income,0,0,9.202343115,Eurasia
+131,LUX,Luxembourg,LUXEMBOURG,Luxembourg|Letzebuerg,NA,NA,NA,Luxembourg,LU,436818,2594.117,168.3879332,Western Europe,Europe,2,NA,High income: OECD,0,0,0.322242945,Eurasia
+132,MAC,Macao,MACAO,Aomen,NA,NA,NA,China,MO,444312,12.898,34448.13149,Eastern Asia,Asia,1,NA,High income: nonOECD,1,0,0.002952674,Eurasia
+133,MKD,Macedonia,"MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",Makedonija,NA,Jugoslavia|Yugoslavia,NA,Macedonia,MK,2033975,25321.289,80.32667689,Southern Europe,Europe,2,Europe & Central Asia,Lower middle income,0,0,2.680874323,Eurasia
+134,MDG,Madagascar,MADAGASCAR,Madagascar,NA,NA,NA,Madagascar,MG,15970364,594856.375,26.84742851,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,1,1,50.93823,Africa
+135,MWI,Malawi,MALAWI,Malawi,British Central Africa,NA,NA,Malawi,MW,11308352,119027.898,95.00589517,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,9.847974559,Africa
+136,MYS,Malaysia,MALAYSIA,Malaysia,British North Borneo|Federated States of Malaya|Labuan|Malaya|Sarawak|Straits Settlements,NA,NA,Malaysia,MY,22218485,330269.594,67.27378301,South-Eastern Asia,Asia,1,East Asia & Pacific,Upper middle income,0,0,26.81785955,Eurasia
+137,MDV,Maldives,MALDIVES,Dhivehi Raajje,NA,NA,NA,Maldives,MV,290959,165.325,1759.921367,Southern Asia,Asia,1,South Asia,Lower middle income,1,1,0.024419028,Eurasia
+138,MLI,Mali,MALI,Mali,French Sudan|Upper Senegal and Niger,NA,NA,Mali,ML,11350798,1256747,9.031887882,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,106.5590782,Africa
+139,MLT,Malta,MALTA,Malta,NA,NA,NA,Malta,MT,389941,332.366,1173.227707,Southern Europe,Europe,2,NA,High income: nonOECD,1,0,0.032489703,Eurasia
+140,MHL,Marshall Islands,MARSHALL ISLANDS,Marshall Islands,NA,NA,NA,Marshall Islands,MH,68126,134.353,507.0672036,Micronesia,Oceania,1,East Asia & Pacific,Lower middle income,1,0,0.024685918,Oceania
+141,MTQ,Martinique,MARTINIQUE,Martinique,NA,NA,NA,France,MQ,383385,1100.634,348.3310528,Caribbean,Americas,1,NA,NA,0,0,0.093798894,North America
+142,MRT,Mauritania,MAURITANIA,Muritaniyah,NA,NA,NA,Mauritania,MR,2664528,1041570,2.55818428,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,90.14140716,Africa
+143,MUS,Mauritius,MAURITIUS,Mauritius,NA,NA,NA,Mauritius,MU,1161371,2035.197,570.6430385,Eastern Africa,Africa,1,Sub-Saharan Africa,Upper middle income,1,0,0.175167782,Eurasia
+144,MYT,Mayotte,MAYOTTE,Mayotte,NA,NA,NA,France,YT,155991,393.379,396.541249,Eastern Africa,Africa,1,Sub-Saharan Africa,Upper middle income,0,0,0.032611439,Eurasia
+145,MEX,Mexico,MEXICO,México|Estados Unidos Mexicanos,NA,NA,NA,México,MX,98872230,1962939,50.36948677,Central America,Americas,1,Latin America & Caribbean,Upper middle income,0,0,173.6871021,North America
+146,FSM,Micronesia,"MICRONESIA, FEDERATED STATES OF",Micronesia,NA,NA,NA,Micronesia,FM,516100,701.358,735.8581495,Micronesia,Oceania,1,East Asia & Pacific,Lower middle income,1,0,0.063436112,Oceania
+147,MDA,Moldova,"MOLDOVA, REPUBLIC OF",Moldova,NA,NA,NA,Moldova,MD,4295453,33566.98,127.9666208,Eastern Europe,Europe,2,Europe & Central Asia,Low income,0,0,4.025829989,Eurasia
+148,MCO,Monaco,MONACO,Monaco,NA,NA,NA,Monaco,MC,31693,11.988,2643.72706,Western Europe,Europe,2,NA,High income: nonOECD,0,0,0.000263065,Eurasia
+149,MNG,Mongolia,MONGOLIA,Mongol Uls,NA,NA,NA,Mongolia,MN,2533299,1559176,1.624767826,Eastern Asia,Asia,1,East Asia & Pacific,Low income,0,0,184.8266012,Eurasia
+150,MNE,Montenegro,MONTENEGRO,Crna Gora,NA,NA,NA,Montenegro,ME,680151,13743.05,49.49054249,Southern Europe,Europe,2,Europe & Central Asia,Lower middle income,0,0,1.466914978,Eurasia
+151,MSR,Montserrat,MONTSERRAT,Montserrat,NA,NA,NA,United Kingdom,MS,4000,105.428,37.94058504,Caribbean,Americas,1,NA,NA,1,0,0.008528866,North America
+152,MAR,Morocco,MOROCCO,Al Maghrib,NA,NA,NA,Morocco,MA,29878403,403859.812,73.98211486,Northern Africa,Africa,1,Middle East & North Africa,Lower middle income,0,0,39.421428,Africa
+153,MOZ,Mozambique,MOZAMBIQUE,Mocambique,NA,NA,NA,Mozambique,MZ,18292382,788628.875,23.19517149,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,67.05780515,Africa
+154,MMR,Myanmar,MYANMAR,Myanma Naingngandaw,NA,NA,NA,Myanmar,MM,47748939,669820.875,71.28613153,South-Eastern Asia,Asia,1,East Asia & Pacific,Low income,0,1,58.29828611,Eurasia
+155,NAM,Namibia,NAMIBIA,Namibia,NA,NA,NA,Namibia,NA,1756597,825632,2.127578631,Southern Africa,Africa,1,Sub-Saharan Africa,Lower middle income,0,0,72.23427285,Africa
+156,NRU,Nauru,NAURU,Nauru,NA,NA,NA,Nauru,NR,11845,28.489,415.7745095,Micronesia,Oceania,1,NA,NA,1,0,0.001799646,Oceania
+157,NPL,Nepal,NEPAL,Nepal,NA,NA,NA,Nepal,NP,23042704,147292.594,156.4417013,Southern Asia,Asia,1,South Asia,Low income,0,1,13.58044556,Eurasia
+158,NLD,Netherlands,NETHERLANDS,Nederland,NA,NA,NA,Nederland,NL,15863747,35492.691,446.9581357,Western Europe,Europe,2,NA,High income: OECD,0,0,4.958244909,Eurasia
+159,NCL,New Caledonia,NEW CALEDONIA,Nouvelle-Calédonie,NA,NA,NA,France,NC,215292,19140.609,11.24791797,Melanesia,Oceania,1,NA,High income: nonOECD,1,0,1.638917053,Oceania
+160,NZL,New Zealand,NEW ZEALAND,Aotearoa,NA,NA,NA,New Zealand,NZ,3778004,266820.188,14.15936338,Australia and New Zealand,Oceania,2,NA,High income: OECD,1,0,29.26878821,Oceania
+161,NIC,Nicaragua,NICARAGUA,Nicaragua,NA,NA,NA,Nicaragua,NI,5071423,129047.398,39.29891713,Central America,Americas,1,Latin America & Caribbean,Low income,0,0,10.67850277,North America
+162,NER,Niger,NIGER,Niger,NA,NA,NA,Niger,NE,10831545,1186021,9.13267556,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,100.7784437,Africa
+163,NGA,Nigeria,NIGERIA,Nigeria,NA,NA,NA,Nigeria,NG,113861753,912038.625,124.843126,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,0,74.87765614,Africa
+164,NIU,Niue,NIUE,Niue,NA,NA,NA,New Zealand,NU,2113,227.818,9.274947546,Polynesia,Oceania,1,NA,NA,1,0,0.022887391,Oceania
+165,NFK,Norfolk Island,NORFOLK ISLAND,Norfolk Island,NA,NA,NA,Australia,NF,1892,41.623,45.45563751,Australia and New Zealand,Oceania,2,NA,NA,1,0,0.003763894,Oceania
+166,PRK,North Korea,"KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",Choson,NA,Korea|Chosun|Chosen|Chosŏn|Hanguk,NA,North Korea,KP,22268377,122472.602,181.8233355,Eastern Asia,Asia,1,East Asia & Pacific,Low income,0,0,12.97471041,Eurasia
+167,XNC,Northern Cyprus,NOTHERN CYPRUS,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,NA,0,0,0.328322414,Eurasia
+168,MNP,Northern Mariana Islands,NORTHERN MARIANA ISLANDS,Northern Mariana Islands,NA,NA,NA,United States,MP,69221,581.331,119.073299,Micronesia,Oceania,1,East Asia & Pacific,Upper middle income,1,0,0.042584958,Oceania
+169,NOR,Norway,NORWAY,Norge,NA,NA,NA,Norway,NO,4469030,316962.406,14.09955855,Northern Europe,Europe,2,NA,High income: OECD,0,0,60.75286002,Eurasia
+170,OMN,Oman,OMAN,Saltanat Uman,NA,NA,NA,Oman,OM,2538161,309651.906,8.196820206,Western Asia,Asia,1,Middle East & North Africa,Upper middle income,0,0,26.80693531,Eurasia
+171,PAK,Pakistan,PAKISTAN,Pakistan,NA,NA,NA,Pakistan,PK,141256186,877753.375,160.9292428,Southern Asia,Asia,1,South Asia,Low income,0,0,81.83961266,Eurasia
+172,PLW,Palau,PALAU,Belau,NA,NA,NA,United States,PW,18766,482.691,38.87787425,Micronesia,Oceania,1,East Asia & Pacific,Upper middle income,1,0,0.039930123,Oceania
+173,PSE,Palestina,"PALESTINIAN TERRITORY, OCCUPIED",Filastin,NA,NA,NA,Palestina,PS,1132000,373.525,3030.586975,Western Asia,Asia,1,Middle East & North Africa,Lower middle income,0,0,0.593098497,Eurasia
+174,PAN,Panama,PANAMA,Panamá,NA,NA,NA,Panamá,PA,2855694,74697.109,38.23031491,Central America,Americas,1,Latin America & Caribbean,Upper middle income,0,0,6.167954386,North America
+175,PNG,Papua New Guinea,PAPUA NEW GUINEA,Papua Niu Gini,British New Guinea|German New Guinea|New Britain|New Guinea,NA,NA,Papua New Guinea,PG,4809215,466161.188,10.31663537,Melanesia,Oceania,1,East Asia & Pacific,Low income,1,0,37.93554135,Eurasia
+176,PIS,Paracel Islands,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,NA,0,0,0.001666132,Eurasia
+177,PRY,Paraguay,PARAGUAY,Paraguay,NA,NA,NA,Paraguay,PY,5496467,400089.406,13.73809683,South America,Americas,1,Latin America & Caribbean,Lower middle income,0,0,35.27952704,South America
+178,PER,Peru,PERU,Perú,NA,NA,NA,Perú,PE,25661679,1296912,19.78675423,South America,Americas,1,Latin America & Caribbean,Lower middle income,0,0,106.6499549,South America
+179,PHL,Philippines,PHILIPPINES,Pilipinas,NA,NA,NA,Pilipinas,PH,75653257,298133.812,253.756045,South-Eastern Asia,Asia,1,East Asia & Pacific,Lower middle income,1,0,24.5864973,Eurasia
+180,PCN,Pitcairn Islands,PITCAIRN,Pitcairn Island,NA,NA,NA,United Kingdom,PN,54,53.367,1.011861263,Polynesia,Oceania,1,NA,NA,1,0,0.004824552,Oceania
+181,POL,Poland,POLAND,Polska,NA,NA,NA,Poland,PL,38605447,310715.094,124.2470924,Eastern Europe,Europe,2,Europe & Central Asia,Upper middle income,0,0,40.96511067,Eurasia
+182,PRT,Portugal,PORTUGAL,Portugal,NA,NA,NA,Portugal,PT,10015505,92098.273,108.7480218,Southern Europe,Europe,2,NA,High income: OECD,0,0,9.637675374,Eurasia
+183,PRI,Puerto Rico,PUERTO RICO,Puerto Rico,NA,NA,NA,United States,PR,3914717,9062.777,431.9555695,Caribbean,Americas,1,NA,High income: nonOECD,1,0,0.766243397,North America
+184,QAT,Qatar,QATAR,Dawlat Qatar,NA,NA,NA,Qatar,QA,565439,11098.88,50.94559091,Western Asia,Asia,1,NA,High income: nonOECD,0,0,1.041946436,Eurasia
+185,COG,Republic of Congo,CONGO,République du Congo,French Kongo|Middle Congo|French Equatorial Africa,NA,NA,Republic of Congo,CG,3018426,345429.5,8.738182466,Middle Africa,Africa,1,Sub-Saharan Africa,Low income,0,0,27.7820714,Africa
+186,REU,Reunion,REUNION,Réunion|Ile de la Réunion,NA,NA,NA,France,RE,721214,2576.213,279.9512307,Eastern Africa,Africa,1,NA,NA,0,0,0.218468862,Africa
+187,ROU,Romania,ROMANIA,Romania,NA,NA,NA,Romania,RO,22437710,236654,94.81229981,Eastern Europe,Europe,2,Europe & Central Asia,Lower middle income,0,0,27.60779302,Eurasia
+188,RUS,Russia,RUSSIAN FEDERATION,Rossiya,Russian SSR|Russian S.S.R.|Karelia|Tannu Tuva,Soviet Union|Union of Soviet Socialist Republics|U.S.S.R.|USSR|CCCP|C.C.C.P.,NA,Russia,RU,145491166,16851940,8.633496559,Eastern Europe,Europe,2,Europe & Central Asia,Upper middle income,0,0,2920.758928,Eurasia
+189,RWA,Rwanda,RWANDA,Rwanda,NA,NA,NA,Rwanda,RW,7608928,25228.23,301.6037193,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,2.056858454,Africa
+190,BLM,Saint-Barthélemy,SAINT BARTHELEMY,NA,NA,NA,NA,NA,NA,0,0,0,Caribbean,Americas,0,Latin America & Caribbean,NA,1,0,0.002106794,North America
+191,MAF,Saint-Martin,SAINT MARTIN,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,NA,0,0,0.004793928,North America
+192,SHN,Saint Helena,SAINT HELENA,Saint Helena,NA,NA,NA,United Kingdom,SH,7212,391.181,18.43647825,Western Africa,Africa,1,NA,NA,1,0,0.038014737,Africa
+193,KNA,Saint Kitts and Nevis,SAINT KITTS AND NEVIS,Saint Kitts and Nevis,NA,West Indies Federation,NA,Saint Kitts and Nevis,KN,40000,275.222,145.3372187,Caribbean,Americas,1,Latin America & Caribbean,Upper middle income,1,0,0.02269913,North America
+194,LCA,Saint Lucia,SAINT LUCIA,Saint Lucia,NA,West Indies Federation,NA,Saint Lucia,LC,154000,605.378,254.3865155,Caribbean,Americas,1,Latin America & Caribbean,Upper middle income,1,0,0.051382644,North America
+195,SPM,Saint Pierre and Miquelon,SAINT PIERRE AND MIQUELON,Saint-Pierre et Miquelon,NA,NA,NA,France,PM,6896,244.361,28.22054256,Northern America,Americas,2,NA,NA,0,0,0.026772152,Eurasia
+196,VCT,Saint Vincent and the Grenadines,SAINT VINCENT AND THE GRENADINES,Saint Vincent and the Grenadines,NA,West Indies Federation,NA,Saint Vincent and the Grenadines,VC,116000,389.617,297.7282819,Caribbean,Americas,1,Latin America & Caribbean,Upper middle income,1,0,0.033183808,North America
+197,WSM,Samoa,SAMOA,Samoa,NA,NA,NA,Samoa,WS,158633,2802.675,56.6005691,Polynesia,Oceania,1,East Asia & Pacific,Lower middle income,1,1,0.238463963,Oceania
+198,SMR,San Marino,SAN MARINO,San Marino,NA,NA,NA,San Marino,SM,26937,63.171,426.4140191,Southern Europe,Europe,2,NA,High income: nonOECD,0,0,0.00686203,Eurasia
+199,STP,Sao Tome and Principe,SAO TOME AND PRINCIPE,São Tomé and Príncipe,NA,NA,NA,São Tomé and Príncipe,ST,159883,1047.785,152.591419,Middle Africa,Africa,1,Sub-Saharan Africa,Low income,1,1,0.081427584,Africa
+200,SAU,Saudi Arabia,SAUDI ARABIA,Al Arabiyah as Suudiyah,NA,NA,NA,Saudi Arabia,SA,20346231,1960175,10.37980333,Western Asia,Asia,1,NA,High income: nonOECD,0,0,169.856628,Eurasia
+201,SEN,Senegal,SENEGAL,Senegal,NA,NA,NA,Senegal,SN,9420518,196910.703,47.84157416,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,16.5007766,Africa
+202,SRB,Serbia,SERBIA,Srbija,NA,Jugoslavia|Yugoslavia,NA,Serbia,RS,9981929,88201.758,113.1715425,Southern Europe,Europe,2,Europe & Central Asia,Lower middle income,0,0,8.812721346,Eurasia
+203,SYC,Seychelles,SEYCHELLES,Seychelles,NA,NA,NA,Seychelles,SC,79326,488.827,162.2782702,Eastern Africa,Africa,1,Sub-Saharan Africa,Upper middle income,1,0,0.040212888,Eurasia
+204,SLE,Sierra Leone,SIERRA LEONE,Sierra Leone,NA,NA,NA,Sierra Leone,SL,4404740,72531.43,60.72870754,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,5.963265173,Africa
+205,SGP,Singapore,SINGAPORE,Singapore,NA,NA,NA,Singapore,SG,4018114,526.041,7638.404611,South-Eastern Asia,Asia,1,NA,High income: nonOECD,1,0,0.056642312,Eurasia
+206,SXM,Sint Maarten,SINT MAARTEN,Sint Maarten,NA,NA,NA,NA,NA,0,0,0,Caribbean,Americas,1,NA,High income: nonOECD,0,0,0.003243177,North America
+207,SVK,Slovakia,SLOVAKIA,Slovensko,NA,Czechoslovakia,NA,Slovakia,SK,5398693,48648.309,110.9739087,Eastern Europe,Europe,2,Europe & Central Asia,Upper middle income,0,0,5.998625991,Eurasia
+208,SVN,Slovenia,SLOVENIA,Slovenija|Republika Slovenija,NA,Jugoslavia|Yugoslavia,NA,Slovenia,SI,1987682,20245.689,98.17803682,Southern Europe,Europe,2,NA,High income: nonOECD,0,0,2.325835391,Eurasia
+209,SLB,Solomon Islands,SOLOMON ISLANDS,Solomon Islands,NA,NA,NA,Solomon Islands,SB,447428,27739.721,16.12950613,Melanesia,Oceania,1,East Asia & Pacific,Low income,1,1,2.345974753,Oceania
+210,SOM,Somalia,SOMALIA,Somalia,British Somaliland|Italian Somaliland|Oltre Giuba|Italian East Africa,NA,NA,Somalia,SO,8777879,639065.125,13.73549996,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,51.84700455,Africa
+211,ZAF,South Africa,SOUTH AFRICA,South Africa,NA,NA,Cape Colony|Natal|Orange Free State|Transvaal,South Africa,ZA,43309197,1223111,35.40904873,Southern Africa,Africa,1,Sub-Saharan Africa,Upper middle income,0,0,113.084061,Africa
+212,SGS,South Georgia and the South Sandwich Islands,SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS,South Georgia and the South Sandwich Islands,NA,NA,NA,United Kingdom,GS,0,3917.944,0,NA,NA,0,NA,NA,0,0,0.570622304,South America
+213,KOR,South Korea,"KOREA, REPUBLIC OF",Han-guk,NA,Korea|Chosun|Chosen|Chosŏn|Hanguk,NA,South Korea,KR,46740141,98338.609,475.2979677,Eastern Asia,Asia,1,NA,High income: OECD,0,0,10.06500958,Eurasia
+214,SSD,South Sudan,SOUTH SUDAN,NA,NA,NA,NA,NA,NA,0,0,0,NA,Africa,0,Sub-Saharan Africa,Low income,0,1,51.45170365,Africa
+215,ESP,Spain,SPAIN,España,NA,NA,NA,España,ES,39910274,505674.406,78.92484477,Southern Europe,Europe,2,NA,High income: OECD,0,0,53.59278645,Eurasia
+216,SP-,Spratly islands,NA,Spratly islands,NA,NA,NA,"Disputed (Pilipinas, China, Vietnam)",NA,0,0,0,NA,NA,0,NA,NA,0,0,0.000154998,Eurasia
+217,LKA,Sri Lanka,SRI LANKA,Sri Lanka,NA,NA,NA,Sri Lanka,LK,18923749,66580.242,284.2246954,Southern Asia,Asia,1,South Asia,Lower middle income,1,0,5.395766265,Eurasia
+218,SDN,Sudan,SUDAN,As-Sudan,NA,NA,NA,Sudan,SD,0,0,0,Northern Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,158.3817889,Africa
+219,SUR,Suriname,SURINAME,Suriname,Dutch Guiana|Netherlands Guiana|,NA,NA,Suriname,SR,417159,145497.5,2.867121428,South America,Americas,1,Latin America & Caribbean,Lower middle income,0,0,11.92783605,South America
+220,SJM,Svalbard and Jan Mayen,SVALBARD AND JAN MAYEN,Svalbard and Jan Mayen,NA,NA,NA,Norway,SJ,2416,61936.762,0.039007528,Northern Europe,Europe,2,NA,NA,0,0,25.04392346,Eurasia
+221,SWZ,Swaziland,SWAZILAND,Swaziland,NA,NA,NA,Swaziland,SZ,924786,17164.109,53.87905658,Southern Africa,Africa,1,Sub-Saharan Africa,Lower middle income,0,0,1.574742125,Africa
+222,SWE,Sweden,SWEDEN,Sverige,NA,NA,NA,Sweden,SE,8842094,443799.688,19.92361473,Northern Europe,Europe,2,NA,High income: OECD,0,0,79.22813998,Eurasia
+223,CHE,Switzerland,SWITZERLAND,Schweiz|Suisse|Svizzera,NA,NA,NA,Switzerland,CH,7170407,41178.398,174.1303049,Western Europe,Europe,2,NA,High income: OECD,0,0,4.860439756,Eurasia
+224,SYR,Syria,SYRIAN ARAB REPUBLIC,Suriyah,NA,NA,NA,Syria,SY,16188760,187937,86.13929136,Western Asia,Asia,1,Middle East & North Africa,Lower middle income,0,0,18.46565927,Eurasia
+225,TWN,Taiwan,"TAIWAN, PROVINCE OF CHINA",T'ai-wan,NA,NA,NA,Taiwan,TW,22191087,36346.09,610.5494979,Eastern Asia,Asia,1,NA,NA,1,0,3.224679461,Eurasia
+226,TJK,Tajikistan,TAJIKISTAN,Jumhurii Tojikiston,Tajik SSR|Tajik S.S.R.,Soviet Union|Union of Soviet Socialist Republics|U.S.S.R.|USSR|CCCP|C.C.C.P.,NA,Tajikistan,TJ,6086983,142410.297,42.7425764,Central Asia,Asia,1,Europe & Central Asia,Low income,0,0,14.68351109,Eurasia
+227,TZA,Tanzania,"TANZANIA, UNITED REPUBLIC OF",Tanzania,NA,NA,NA,Tanzania,TZ,35119255,944976.875,37.16414224,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,76.94146887,Africa
+228,THA,Thailand,THAILAND,Prathet Thai,NA,NA,NA,Thailand,TH,62805574,515144,121.918481,South-Eastern Asia,Asia,1,East Asia & Pacific,Lower middle income,0,0,43.28979268,Eurasia
+229,TLS,East Timor,TIMOR-LESTE,Timor-Leste,NA,NA,NA,Timor-Leste,TL,737105,15007,49.11741187,South-Eastern Asia,Asia,1,East Asia & Pacific,Low income,1,1,1.22563221,Eurasia
+230,TGO,Togo,TOGO,Togo|Republique Togolaise,NA,NA,NA,Togo,TG,4526972,57299.691,79.00517299,Western Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,4.682018786,Africa
+231,TKL,Tokelau,TOKELAU,Tokelau,NA,NA,NA,New Zealand,TK,1458,20.125,72.44720497,Polynesia,Oceania,1,NA,NA,1,0,0.001288518,Oceania
+232,TON,Tonga,TONGA,Tonga,NA,NA,NA,Tonga,TO,102321,696.525,146.9021212,Polynesia,Oceania,1,East Asia & Pacific,Lower middle income,1,0,0.065868809,Oceania
+233,TTO,Trinidad and Tobago,TRINIDAD AND TOBAGO,Trinidad and Tobago,NA,NA,NA,Trinidad and Tobago,TT,1294368,5151.649,251.2531424,Caribbean,Americas,1,Latin America & Caribbean,Upper middle income,1,0,0.426051557,North America
+234,TUN,Tunisia,TUNISIA,Tunis,NA,NA,NA,Tunisia,TN,9458661,155401.5,60.86595689,Northern Africa,Africa,1,Middle East & North Africa,Lower middle income,0,0,15.13841002,Africa
+235,TUR,Turkey,TURKEY,Turkiye,Alexandretta|Cilicia|Hatay,Ottoman Empire,NA,Turkey,TR,66667997,779986.188,85.47330456,Western Asia,Asia,1,Europe & Central Asia,Upper middle income,0,0,81.27445785,Eurasia
+236,TKM,Turkmenistan,TURKMENISTAN,Turkmenistan,Turkmen SSR|Turkmen S.S.R.,Soviet Union|Union of Soviet Socialist Republics|U.S.S.R.|USSR|CCCP|C.C.C.P.,NA,Turkmenistan,TM,4737256,471428.5,10.04872637,Central Asia,Asia,1,Europe & Central Asia,Lower middle income,0,0,51.06767318,Eurasia
+237,TCA,Turks and Caicos Islands,TURKS AND CAICOS ISLANDS,Turks and Caicos Islands,NA,NA,NA,United Kingdom,TC,19000,490.696,38.72051127,Caribbean,Americas,1,NA,NA,1,0,0.086565575,North America
+238,TUV,Tuvalu,TUVALU,Tuvalu,Ellice Islands,NA,NA,Tuvalu,TV,10838,30.798,351.9059679,Polynesia,Oceania,1,NA,NA,1,1,0.003419602,Oceania
+239,UGA,Uganda,UGANDA,Uganda,NA,NA,NA,Uganda,UG,23300162,243049.906,95.86575195,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,19.62989624,Africa
+240,UKR,Ukraine,UKRAINE,Ukrayina,Ukrainian SSR|Ukrainian S.S.R.,Soviet Union|Union of Soviet Socialist Republics|U.S.S.R.|USSR|CCCP|C.C.C.P.,NA,Ukraine,UA,49568167,596040.875,83.16236198,Eastern Europe,Europe,2,Europe & Central Asia,Lower middle income,0,0,73.92716976,Eurasia
+241,ARE,United Arab Emirates,UNITED ARAB EMIRATES,Al Imarat al Arabiyah al Muttahidah,Trucial Coast|Trucial Oman|Trucial States,NA,NA,United Arab Emirates,AE,2605958,71234.406,36.58285576,Western Asia,Asia,1,NA,High income: nonOECD,0,0,6.936311248,Eurasia
+242,GBR,United Kingdom,UNITED KINGDOM,United Kingdom,NA,NA,NA,United Kingdom,GB,59414643,243137.203,244.366729,Northern Europe,Europe,2,NA,High income: OECD,0,0,33.79381163,Eurasia
+243,UMI,United States Minor Outlying Islands,UNITED STATES MINOR OUTLYING ISLANDS,United States Minor Outlying Island,NA,NA,NA,United States,UM,1850,11.717,157.8902449,NA,NA,0,NA,NA,0,0,0.004047579,Oceania
+244,USA,United States,UNITED STATES,United States,NA,NA,NA,United States,US,283230243,9450720,29.96917092,Northern America,Americas,2,NA,High income: OECD,0,0,1117.102797,North America
+245,URY,Uruguay,URUGUAY,Uruguay|República Oriental del Uruguay,NA,NA,NA,Uruguay,UY,3337080,178140.797,18.73282289,South America,Americas,1,Latin America & Caribbean,Upper middle income,0,0,17.08689224,South America
+246,UZB,Uzbekistan,UZBEKISTAN,Uzbekiston Respublikasi,Uzbek SSR|Uzbek S.S.R.,Soviet Union|Union of Soviet Socialist Republics|U.S.S.R.|USSR|CCCP|C.C.C.P.,NA,Uzbekistan,UZ,24880545,445711.312,55.82210801,Central Asia,Asia,1,Europe & Central Asia,Low income,0,0,48.47243923,Eurasia
+247,VUT,Vanuatu,VANUATU,Vanuatu,NA,NA,NA,Vanuatu,VU,196803,12534.9,15.70040447,Melanesia,Oceania,1,East Asia & Pacific,Lower middle income,1,1,1.041502653,Oceania
+248,VAT,Vatican City,HOLY SEE (VATICAN CITY STATE),Status Civitatis Vaticanæ,NA,NA,NA,Vatican,VA,921,0.44,2093.181818,Southern Europe,Europe,2,NA,NA,0,0,5.72E-05,Eurasia
+249,VEN,Venezuela,VENEZUELA,Venezuela,NA,NA,NA,Venezuela,VE,24169742,916560.5,26.3700454,South America,Americas,1,Latin America & Caribbean,Upper middle income,0,0,74.76341033,South America
+250,VNM,Vietnam,VIET NAM,Viet Nam,Annam|Cochin-China|Tongking,NA,North Vietnam|South Vietnam,Vietnam,VN,78136913,327122.594,238.861254,South-Eastern Asia,Asia,1,East Asia & Pacific,Low income,0,0,27.90527679,Eurasia
+251,VIR,"Virgin Islands, U.S.","VIRGIN ISLANDS, U.S.",Virgin Islands,NA,NA,NA,United States,VI,111000,348.734,318.2941726,Caribbean,Americas,1,NA,High income: nonOECD,1,0,0.030892354,Oceania
+252,WLF,Wallis and Futuna,WALLIS AND FUTUNA,Wallis et Futuna,NA,NA,NA,France,WF,15283,173.353,88.16115095,Polynesia,Oceania,1,NA,NA,0,0,0.013017377,Oceania
+253,ESH,Western Sahara,WESTERN SAHARA,Western Sahara,NA,NA,NA,Western Sahara,EH,251824,269601.594,0.934059759,Northern Africa,Africa,1,NA,NA,0,0,23.85792865,Africa
+254,YEM,Yemen,YEMEN,Al Yaman,NA,NA,NA,Yemen,YE,18348746,425520.906,43.12066867,Western Asia,Asia,1,Middle East & North Africa,Low income,0,1,38.1735007,Eurasia
+255,ZMB,Zambia,ZAMBIA,Zambia,Northern Rhodesia,NA,NA,Zambia,ZM,10421339,2337027,4.459229183,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,0,1,62.76393565,Africa
+256,ZWE,Zimbabwe,ZIMBABWE,Zimbabwe,Rhodesia|Southern Rhodesia,NA,NA,Zimbabwe,ZW,12627277,754772.688,16.72990716,Eastern Africa,Africa,1,Sub-Saharan Africa,Low income,0,0,33.53352557,Africa
