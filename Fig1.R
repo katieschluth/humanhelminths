@@ -37,9 +37,10 @@ ggplot(df, aes(x=reorder(Var1,-Freq), y=Freq)) + geom_bar(stat='identity') +
 ##########
 
 df <- read.csv('C:/Users/cjcar/Documents/GitHub/humanhelminths/Lit review data/Syndromes.csv')
+df <- df[-27,]
 
 library(ggthemr)
 ggthemr('fresh')
 ggplot(df, aes(x=reorder(condition,-number.of.studies), y=number.of.studies)) + geom_bar(stat='identity') +
-  theme(axis.text.x=element_text(angle=-90, hjust=0, vjust=0.5)) + xlab('') + ylab('Number of studies')
+  theme(axis.text.x=element_text(angle=-90, hjust=0, vjust=0.5, size = 9)) + xlab('') + ylab('Number of studies')
 
