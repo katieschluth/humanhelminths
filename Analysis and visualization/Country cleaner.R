@@ -77,7 +77,14 @@ bigregions <- data.frame(aggregate(NAME_ENGLI ~ UNREGION2, regions, commas))
 ##########################################################################################
 
 # The helminth data
-raw <- read.csv('C:/Users/cjcar/Documents/GitHub/humanhelminths/Lit review data/lit review master COMBINED.csv')
+raw <- read.xlsx('C:/Users/cjcar/Documents/GitHub/humanhelminths/Lit review data/lit review FINAL.xlsx')
+
+splitlist <- function(x) {
+  x <- strsplit(as.character(x), '\\(')[[1]][1]
+  x
+}
+
+raw$Countries.pre.coding <- sapply(raw$Countries.cleaned, splitlist)
 
 raw %>% mutate(countries.pre.coding = str_replace_all(as.character(Countries.pre.coding), 
                                                   pattern=' and ',
