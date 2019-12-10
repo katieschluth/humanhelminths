@@ -1,28 +1,28 @@
-condition,number of studies ,,,,,,
-Schistosomiasis,228,,,,,,
-Lymphatic filariasis,100,,,,,,
-Ascariasis,46,,,,,,
-Trichuriasis,45,,,,,,
-Onchocerciasis,41,,,,,,
-Food-borne trematodiasis,61,,,,,,
-Soil-transmitted (misc.),25,,,,,,
-Loiasis,22,,,,,,
-Pulmonary dirofilariasis,14,,,,,,
-Alveolar echinococcosis,14,,,,,,
-Cystic echinococcosis,10,,,,,,
-Taeniasis & cysticercosis,28,,,,,,
-Dirofilariasis,8,,,,,,
-Hookworm,68,,,,,,
-Guinea worm disease,6,,,,,,
-Mansonellosis,9,,,,,,
-Strongyloidiasis,3,,,,,,
-Angiostrongyliasis,3,,,,,,
-Toxocariasis,3,,,,,,
-Dicrocoeliasis,2,,,,,,
-Dwarf tapeworm,2,,,,,,
-Thelaziasis,2,,,,,,
-Trichinellosis,2,,,,,,
-Hymenolepiasis,1,,,,,,
-Oesophagostomiasis,1,,,,,,
-Anisakiasis,2,,,,,,
-,,,,,,,
+condition,species from lit review,number of studies ,deaths,dalys,mode of transmission,number infected,associated symptoms,treatment options
+Schistosomiasis,"Schistosoma mansoni, Schistosoma haematobium, Schistosoma japonicum, Schistosoma intercalatum, Schistosoma mekongi, Schistosoma guineensis, Schistosoma malayensis",224,8836.59 (other sources say as many as 200000),1431446.68 (other sources say 10.4 million),Contaminated water with intermediate snail hosts,207 million,"Abdominal pain, diarrhea, bloody stool, blood in the urine, liver damage, kidney failure, infertility, bladder cancer, poor growth and learning difficulty in children",Anti-helminthics (praziquantel)
+Lymphatic filariasis,"Wuchereria bancrofti, Brugia malayi",90,0,1363952.52 (other sources say as many as 5.09 million - this includes depressive illnesses),Mosquito bites,38.5 million,"Lymphedema, hydrocele, elephantiasis, tropical pulmonary eosinophilia syndrome (but most people are asymptomatic)",Anti-helminthics (diethylcarbamazine)
+Hookworm,"Necator americanus, Ancylostoma duodenale",64,0,845009.69 (other sources say 2-4 million),Contact with feces of an infected individual,576-740 million,"Abdominal pain, cough, diarrhea, fatigue, fever, gas, itchy rash, loss of appetite, nausea and/or vomiting, pale skin",Anti-helminthics
+Food-borne trematodiasis,"Fasciola hepatica, Opisthorchis viverrini, Fasciola gigantica, Clonorchis sinensis, Opisthorchis felineus, Paragonimus westermani, Paragonimus skrjabini, Echinostoma revolutum, Fasciolopsis buski",61,0 (other sources say 7000),1870743.47 (other sources say upwards of 2 million),"Eating infected fish, plants, or crustaceans",Lots of conflicting answers on this,"Abdominal pain, gall bladder inflammation and fibrosis, liver fibrosis, colic pain, jaundice, anemia, cough, chest pain, shortness of breath, fever","Anti-helminthics (praziquantel, triclabendazole)"
+Ascariasis,Ascaris lumbricoides,45,3205.85 (other sources say as many as 60000),860832.74 (other sources say approximately 1 million),Ingesting eggs from feces of an infected individual,807 million-1.2 billion,"Abdominal discomfort, cough, intestinal blockage, impaired growth in children (most people are asymptomatic)","Anti-helminthics (albendazole, mebendazole)"
+Trichuriasis,Trichuris trichiura,44,0,212663.63 (other sources say 638000),Ingesting eggs from feces of an infected individual,800 million,"Diarrhea, bloody stool, rectal prolapse, anemia, impaired growth in children","Anti-helminthics (albendazole, mebendazole)"
+Onchocerciasis,Onchocerca volvulus,37,0,1342936.92,Blackfly bites,25 million,"Blindness, visual impairment, nodules under the skin and/or debilitating itching",Anti-helminthics (ivermectin to kill larvae and doxycycline to kill adult worms)
+Loiasis,Loa loa,18,0,-,Deerfly bites,3-13 million,"Calabar swellings, eye worm, hives, muscle pain, joint pain, tiredness (most people are asymptomatic)","Anti-helminthics (diethylcarbamazine, albendazole) and surgery"
+Cysticercosis,Taenia solium,17,749.15 (though other sources say 50000 - why is the GBD value so low?),1608143.55 (other sources say as high as 2.8 million),Ingesting eggs from feces of an infected individual,2.56-8.3 million,"Cysts in the muscles, eyes, or central nervous system; seizures; headaches",Anti-helminthics and anti-inflammatory drugs
+Pulmonary dirofilariasis,Dirofilaria immitis,13,0,-,Mosquito bites,372,"Inflammation in pulmonary arteries, cough, chest pain, fever, pleural effusion (most people asymptomatic)",Surgery
+Alveolar echinococcosis,Echinococcus multilocularis,14,18000,666434,"Ingesting food items contaminated with stool from foxes or coyotes, petting or handling household dogs or cats infected with the Echinococcus multilocularis tapeworm",-,"Abdominal pain or discomfort, weakness, weight loss",Surgery
+Cystic echinococcosis,Echinococcus granulosus,10,1196.47,100284.51 (other sources suggest 1 million),"Ingesting food, water, or soil contaminated with stool from infected dogs",1 million (don't know how accurate this is),"Discomfort, pain, nausea, vomiting, anaphylactic reactions","Chemotherapy, cyst puncture, PAIR (percutaneous aspiration, injection of chemicals and reaspiration), surgery"
+Taeniasis,"Taenia saginata, Taenia asiatica",10,50000 deaths annually from CNS or cardiac complications,-,Ingesting raw or undercooked beef or pork,45 million,"Abdominal pain, loss of appetite, weight loss, upset stomach (most people are asymptomatic)","Anti-helminthics (praziquantel, niclosamide)"
+Mansonellosis,"Mansonella perstans, Mansonella ozzardi, Mansonella streptocerca",7,0,-,Blackfly bites,100 million,"Angioedema, pruritus, fever, headaches, arthralgias, adenopathy, hepatomegaly, pulmonary symptoms, swelling, eosinophilia, hives, hydrocele, and neurologic manifestations (most people are asymptomatic)","Anti-helminthics (diethylcarbamazine, mebendazole), though these have limited effectiveness"
+Dirofilariasis,Dirofilaria repens,7,0,-,Mosquito bites,1410,Nodules under the skin and under the conjunctiva of the eye (most people are asymptomatic),Surgery
+Guinea worm disease,Dracunculus medinensis,5,0,0.55,Contaminated water,25,"Fever, swelling, and pain at the site where the worm exits the skin, which often develops a secondary bacterial infection",None
+Strongyloidiasis,Strongyloides stercoralis,3,Deaths only in extreme cases,-,Contact with soil containin free-living larvae,30-100 million (though another source says up to 370 million),"Abdominal pain, bloating, heartburn, intermittent episodes of diarrhea and constipation, a dry cough, and skin rashes (most people are asymptomatic)","Anti-helminthics (ivermectin, thiabendazole, albendazole)"
+Angiostrongyliasis,Angiostrongylus cantonensis,3,Deaths only in extreme cases,-,Ingesting raw or undercooked snails or slugs,2800 to date,"Symptoms of bacterial meningitis, such as nausea, vomiting, neck stiffness, and headaches",None
+Toxocariasis,Toxocara cati,3,Deaths only in extreme cases,-,Ingesting dirt containing infected dog or cat feces,-,"Fever, coughing, enlarged liver, pneumonia, ocular toxocariasis (most people are asymptomatic)","Anti-helminthics (albendazole, mebendazole)"
+Dicrocoeliasis,Dicrocoelium dendriticum,2,0,-,Ingesting infected ants,-,"Cholecystitis, liver abscesses, and generalized gastrointestinal/abdominal distress","Anti-helminthics (praziquantel, triclabendazole, mirazid)"
+Dwarf tapeworm,Hymenolepis nana,2,Deaths only in extreme cases,-,"Ingesting infected arthropods, soil, or contaminated feces",50-75 million,"Nausea, weakness, loss of appetite, diarrhea, and abdominal pain (most people are asymptomatic)",Anti-helminthics (praziquantel)
+Thelaziasis,Thelazia callipaeda,2,0,-,Fly bites,257,"Watery eyes, conjunctivitis, corneal opacity, or corneal ulcers (most people are asymptomatic)","Anti-helminthics (thiabendazole), removal of the worm"
+Trichinellosis,Trichinella britovi,2,2,523,Ingesting raw or undercooked beef or pork,4472,"Nausea, diarrhea, vomiting, abdominal pain, muscle pain, fever, swelling of the eyes, weakness or fatigue, headache, chills, itchy skin or rash, cough, constipation","Anti-helminthics (albendazole, mebendazole)"
+Anisakiasis,"Anisakis pegreffi, Anisakis physeteris",2,0,-,Ingesting raw or undercooked fish or squid,20000 to date,"Abdominal pain, nausea, vomiting, abdominal distention, diarrhea, blood and mucus in stool, mild fever, rash, itching",Anti-helminthics (albendazole) and surgery
+Hymenolepiasis,Hymenolepis diminuta,1,0,-,Ingesting infected arthropods,-,"Abdominal pain, itching, irritability, eosinophilia (most people are asymptomatic)","Anti-helminthics (praziquantel, niclosamide)"
+Oesophagostomiasis,Oesophagostomum bifurcum,1,0,-,Oral-fecal (though this is contested),250000,"Abdominal pain, vomiting, diarrhea, anorexia, low-grade fever, protruding abdominal masses, intestinal obstruction",Anti-helminthics (albendazole)
+,,,,,,,,
