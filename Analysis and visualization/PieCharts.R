@@ -1,4 +1,4 @@
-library(openxlsx)
+#library(openxlsx)
 library(tidyverse)
 library(scales)
 
@@ -12,7 +12,7 @@ blank_theme <- theme_minimal()+
     plot.title=element_text(size=14, face="bold")
   )
 
-worm <- read.xlsx('C:/Users/cjcar/Documents/GitHub/humanhelminths/Lit review data/lit review FINAL.xlsx')
+worm <- read_csv('C:/Users/cjcar/Documents/GitHub/humanhelminths/Lit review data/lit review FINAL.csv')
 setwd('C:/Users/cjcar/Documents/Github/humanhelminths/Figures')
 
 level_key <- c(fox = "wildlife",
@@ -48,14 +48,14 @@ ggsave('Vectors.pdf')
 
 #############################################################
 
-worm %>% separate_rows(Spatial.scale, sep=', ') %>% 
-  select(Spatial.scale) %>% table() %>% data.frame() %>%
+worm %>% separate_rows(`Spatial scale`, sep=', ') %>% 
+  select(`Spatial scale`) %>% table() %>% data.frame() %>%
   `colnames<-`(c('Spatial scale','count')) %>% 
-  mutate(`Spatial scale`==factor(`Spatial scale`,levels=c('community',
+  mutate(`Spatial scale`==factor(as.character(`Spatial scale`,levels=c('community',
                                                           'subnational',
                                                           'national',
                                                           'multinational',
-                                                          'world'))) %>% 
+                                                          'world')))) %>% 
   ggplot(aes(x="",y=count, fill=`Spatial scale`)) + 
   geom_bar(stat='identity', color='grey25', lwd=0.3) +
   coord_polar('y',start=0, direction=-1) + 
