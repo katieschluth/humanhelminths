@@ -76,7 +76,7 @@ ggsave('Methods.pdf')
 ###############################################################
 
 worm %>% separate_rows(Diagnostics, sep=', ') %>%
-  select(Diagnostics) %>% table() %>% data.frame() %>%
+  select(Diagnostics) %>% na.omit() %>% table() %>% data.frame() %>%
   `colnames<-`(c('Diagnostics','count')) %>% 
   ggplot(aes(x="",y=count, fill=Diagnostics)) + 
     geom_bar(stat='identity', color='grey25', lwd=0.3) +
