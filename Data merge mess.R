@@ -90,4 +90,6 @@ clean %>%
          DataArchival = `Data archived?`,
          Notes = `Specific notes`) -> clean
 
-write.csv(clean, 'CleanedDataAugust.csv')
+con<-file('CleanedDataAugust.csv', encoding="UTF-8")
+
+write.csv(clean, con)
